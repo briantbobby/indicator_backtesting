@@ -1,0 +1,7 @@
+Trading Competition Prep: https://docs.google.com/document/d/15hvWYy7C6215XCFIdmqikN_BtHnWXkYDoAPLqCNwNAE/edit?usp=sharing
+
+Backtesting Info:
+https://docs.google.com/document/d/1UAJyWATo6ncd2GB3tz5I5Hd8K4ig-htiin3NxKtWE2Y/edit?usp=sharing
+
+PyAlgoTrade:
+https://docs.google.com/document/d/1zEj3OIfJYMAquueWQkBcTLU93YVQ6y5o61kIu0TlsZc/edit?usp=sharing
